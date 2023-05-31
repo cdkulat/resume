@@ -72,45 +72,56 @@ January - February 2023
     Lightweight bot running in a Docker container that parses commands in a Discord guild and returns a brief sentence 
     detailing the results of a dice roll. Users can specify the number of sides on a die and the number of die to be rolled.
 
-Open Source
-    List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+### **Ping-Pong Discord Bot in Go**
+
+January 2023
+
+    Simple discord bot that responds to messages sent to it containing "ping" with the response "pong".
+
 
 Technologies and Skills
 --------------------
 
-### Programming Languages
+### Programming Languages & Software Tools
 
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **Python:** Using [Python](https://python.org), I've developed a number of simple scripts
+                and programs to complete assignments and automate common workflows in my 
+                everyday life. For example, in order to streamline data entry, I developed a script that
+                copies text pulled from a PDF and can be configured to paste it into a browser form, 
+                and then submit that form. I also have experience writing modules, and am currently working
+                on writing a small testing suite. Python is also my language of choice when solving algorithm
+                problems due to its ease of use and readability.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Go:** With [Go](https://go.dev), I've developed a number of single-page applications, HTTP services,
+            and have studied how microservices and cloud services are written using the language. Though Python
+            is more widely used and is often more convenient, I find that Go's modular structure, vast but deep
+            standard library fast runtimes, and memorable syntax is a perfect fit for me. My current development 
+            project is a Go module that will streamline the creation of assertion functions when writing unit tests.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **Javascript:** I've used the React and Vue frameworks in both personal and collegiate projects. The initial
+                    version of my portfolio site was written in React, with the current version written in Vue.
+                    I am also comfortable with the Node.js framework when writing backends, having direct
+                    experience writing local databases using Node and PostgreSQL
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   Foundational knowledge of  **Java**, **Google Cloud Platform**, **Git**, **PostgreSQL**, **MySQL**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+### Soft Skills
+
+:   **Teamwork & Communication:** Having worked 5+ years in sales and service roles, I understand the value of having a reliable
+                                  team. I'm an effective communicator, and my strongest belief is that a friendly disposition and 
+                                  appropriate sense of humor can bring any group of people together and create a positive work environment.
+
+:   **Leadership:** My experience running shifts in a service environment and leading an API integration
+                    project in an office environment means I understand how to take charge in a way that feels
+                    inclusive and welcoming, yet serves its purpose in with flying colors.
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
 
-* Human Languages:
+* Conventional Languages:
 
      * English (native speaker)
-     * ???
+     * Spanish ()
      * This is what a nested list looks like.
 
 * Random tidbit
