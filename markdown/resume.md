@@ -22,7 +22,11 @@ Education and Certifications
 Jan - June 2022
 :   **Google IT Support Specialist**; Google & Coursera
 
-     Studied fundamental skills needed for a career in IT support. Topics covered include troubleshooting and customer service, operating systems, networking, system administration, and security.  Troubleshooted common hardware and software issues, how to resolve them, and gained an understanding of the basic principles of computer networks. Curriculum also delved into essential concepts such as virtualization, cloud computing, and data recovery.
+     Studied fundamental skills needed for a career in IT support. Topics covered include troubleshooting
+     and customer service, operating systems, networking, system administration, and security. 
+     Troubleshooted common hardware and software issues, how to resolve them, and gained an understanding of 
+     the basic principles of computer networks. Curriculum also delved into essential concepts such as virtualization,
+     cloud computing, and data recovery.
 
 Experience
 ----------
