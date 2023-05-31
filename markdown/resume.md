@@ -54,7 +54,7 @@ October 2017 - Present
 Technical Experience
 --------------------
 
-###**Industry Partner Capstone Project**
+### **Industry Partner Capstone Project**
 
 January - May 2023
 
