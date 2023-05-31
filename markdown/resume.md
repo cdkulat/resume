@@ -14,12 +14,12 @@ Christian Kulat
 Education and Certifications
 ---------
 
-2018-2023
+2018 - 2023
 :   **Bachelor of Science in Computer Science, Minor in Software Engineering**; Kennesaw State University
 
     Completed a full degree track in Computer Science, with an emphasis on user design, algorithm analysis, software testing and quality assurance and other important facets of software engineering such as API design, microservice architecture and networking. Classes taken include Software Testing and QA, Algorithm Analysis, Aritifical Intelligence and Cryptography. Final semester of degree consisted of a unique capstone project focused on the development of a solution for a Fortune 20 company.
 
-2022
+Jan - June 2022
 :   **Google IT Support Specialist**; Google & Coursera
      Studied fundamental skills needed for a career in IT support. Topics covered include troubleshooting and customer service, operating systems, networking, system administration, and security.  Troubleshooted common hardware and software issues, how to resolve them, and gained an understanding of the basic principles of computer networks. Curriculum also delved into essential concepts such as virtualization, cloud computing, and data recovery.
 
@@ -32,10 +32,16 @@ February 2022 - Present
 -   Manage inventory and online content for 3 brands across several multi-billion dollar retailers
 -   Wrote marketing copy and other technical documents for over 20 products, including brand new furniture collections.
 -   Developed automated text extraction and online form submission of purchase orders for Amazon’s Vendor Central using Python
+-   Assisted in 3rd-party API integration on company ecommerce website using Javascript and HTML, resulting in 10% uptick in sales in the following 6 months
 
-**That Other Job You Had**
 
-Also with a short description.
+**Team Lead and Certified Trainer at Chick-Fil-A Acworth**
+October 2017 - Present
+
+-   Manage teams of 20+ people through rush hours to deliver upwards of $20000 in daily sales
+-   Train, guide, and set an example for multiple new team members
+-   Perform opening and closing procedures as well as keep track of key performance indicators such as labor and food costs
+-   Assist in updating training regimen and operational techniques in order to facilitate a 50% increase in daily sales over 3 years
 
 Technical Experience
 --------------------
