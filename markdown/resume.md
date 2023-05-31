@@ -33,6 +33,7 @@ Experience
 ----------
 
 **Sales Support at Backyard Playnation, LLC**
+
 February 2022 - Present
 
 -   Manage inventory and online content for 3 brands across several multi-billion dollar retailers
@@ -42,6 +43,7 @@ February 2022 - Present
 
 
 **Team Lead and Certified Trainer at Chick-Fil-A Acworth**
+
 October 2017 - Present
 
 -   Manage teams of 20+ people through rush hours to deliver upwards of $20000 in daily sales
@@ -52,7 +54,7 @@ October 2017 - Present
 Technical Experience
 --------------------
 
-**Industry Partner Capstone Project**
+###**Industry Partner Capstone Project**
 
 January - May 2023
 
@@ -63,10 +65,14 @@ that allows the business to incentivize employees to improve customer
 service. Capstone teams met regularly with sponsor stakeholders through
 the entire discovery and build process, following an agile delivery process.
 
+**Dice Rolling Discord Bot in Go**
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+January - February 2023
+
+Lightweight bot running in a Docker container that parses
+commands in a Discord guild and returns a brief sentence detailing
+the results of a dice roll. Users can specify the number of sides on a
+die and the number of die to be rolled.
 
 Open Source
 :   List open source contributions here, perhaps placing emphasis on
