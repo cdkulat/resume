@@ -42,6 +42,7 @@ February 2022 - Present
     -   Wrote marketing copy and other technical documents for over 20 products, including brand new furniture collections.
     -   Developed automated text extraction and online form submission of purchase orders for Amazon’s Vendor Central using Python
     -   Assisted in 3rd-party API integration on company ecommerce website using Javascript and HTML, resulting in 10% uptick in 
+    
         sales in the following 6 months
 
 
@@ -53,6 +54,7 @@ October 2017 - Present
     -   Train, guide, and set an example for multiple new team members
     -   Perform opening and closing procedures as well as keep track of key performance indicators such as labor and food costs
     -   Assist in updating training regimen and operational techniques in order to facilitate a 50% increase in daily sales over
+
         3 years
 
 Technical Experience
