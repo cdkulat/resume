@@ -60,24 +60,20 @@ Technical Experience
 
 January - May 2023
 
-    Participated in a unique Capstone Project focused on the development of a
-    gamified rewards systems solution for a Fortune 20 company. This project
-    involved utilizing source data and building a working prototype application
-    that allows the business to incentivize employees to improve customer
-    service. Capstone teams met regularly with sponsor stakeholders through
-    the entire discovery and build process, following an agile delivery process.
+    Participated in a unique Capstone Project focused on the development of a gamified rewards systems solution for a Fortune 20
+    company. This project involved utilizing source data and building a working prototype application that allows the 
+    business to incentivize employees to improve customer service. Capstone teams met regularly with sponsor stakeholders 
+    through the entire discovery and build process, following an agile delivery process.
 
 ### **Dice Rolling Discord Bot in Go**
 
 January - February 2023
 
-    Lightweight bot running in a Docker container that parses
-    commands in a Discord guild and returns a brief sentence detailing
-    the results of a dice roll. Users can specify the number of sides on a
-    die and the number of die to be rolled.
+    Lightweight bot running in a Docker container that parses commands in a Discord guild and returns a brief sentence 
+    detailing the results of a dice roll. Users can specify the number of sides on a die and the number of die to be rolled.
 
 Open Source
-:   List open source contributions here, perhaps placing emphasis on
+    List open source contributions here, perhaps placing emphasis on
     the project names, for example the **Linux Kernel**, where you
     implemented multithreading over a long weekend, or **node.js**
     (with [link](http://nodejs.org)) which was actually totally
