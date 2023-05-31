@@ -41,9 +41,7 @@ February 2022 - Present
     -   Manage inventory and online content for 3 brands across several multi-billion dollar retailers
     -   Wrote marketing copy and other technical documents for over 20 products, including brand new furniture collections.
     -   Developed automated text extraction and online form submission of purchase orders for Amazon’s Vendor Central using Python
-    -   Assisted in 3rd-party API integration on company ecommerce website using Javascript and HTML, resulting in 10% uptick in 
-    
-        sales in the following 6 months
+    -   Assisted in 3rd-party Javascript API integration on company ecommerce website resulting in 10% uptick in sales in the following 6 months
 
 
 ### **Team Lead and Certified Trainer at Chick-Fil-A Acworth**
@@ -53,9 +51,7 @@ October 2017 - Present
     -   Manage teams of 20+ people through rush hours to deliver upwards of $20000 in daily sales
     -   Train, guide, and set an example for multiple new team members
     -   Perform opening and closing procedures as well as keep track of key performance indicators such as labor and food costs
-    -   Assist in updating training regimen and operational techniques in order to facilitate a 50% increase in daily sales over
-
-        3 years
+    -   Assist in updating training regimen and operational techniques facilitating a 50% increase in daily sales over 3 years
 
 Technical Experience
 --------------------
@@ -64,21 +60,21 @@ Technical Experience
 
 January - May 2023
 
-Participated in a unique Capstone Project focused on the development of a
-gamified rewards systems solution for a Fortune 20 company. This project
-involved utilizing source data and building a working prototype application
-that allows the business to incentivize employees to improve customer
-service. Capstone teams met regularly with sponsor stakeholders through
-the entire discovery and build process, following an agile delivery process.
+    Participated in a unique Capstone Project focused on the development of a
+    gamified rewards systems solution for a Fortune 20 company. This project
+    involved utilizing source data and building a working prototype application
+    that allows the business to incentivize employees to improve customer
+    service. Capstone teams met regularly with sponsor stakeholders through
+    the entire discovery and build process, following an agile delivery process.
 
 **Dice Rolling Discord Bot in Go**
 
 January - February 2023
 
-Lightweight bot running in a Docker container that parses
-commands in a Discord guild and returns a brief sentence detailing
-the results of a dice roll. Users can specify the number of sides on a
-die and the number of die to be rolled.
+    Lightweight bot running in a Docker container that parses
+    commands in a Discord guild and returns a brief sentence detailing
+    the results of a dice roll. Users can specify the number of sides on a
+    die and the number of die to be rolled.
 
 Open Source
 :   List open source contributions here, perhaps placing emphasis on
