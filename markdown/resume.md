@@ -19,7 +19,7 @@ Education and Certifications
     Completed a full degree track in Computer Science, with an emphasis on user design, algorithm analysis,
     software testing and quality assurance and other important facets of software engineering such as API design,
     microservice architecture and networking. Classes taken include Software Testing and QA, Algorithm Analysis,
-    Aritifical Intelligence and Cryptography. Final semester of degree consisted of a unique capstone project
+    Artifical Intelligence and Cryptography. Final semester of degree consisted of a unique capstone project
     focused on the development of a gamified rewards solution for a Fortune 20 company.
 
 ###   **Google IT Support Specialist**; Google & Coursera
