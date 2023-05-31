@@ -1,7 +1,6 @@
 Christian Kulat
 ============
 
-----
 
 > I’m a full-stack software engineer creating functional and beautiful code primarily in Python
 > and Go. Based in Atlanta, I’ve been studying software development since 2017 and am looking 
@@ -9,7 +8,6 @@ Christian Kulat
 > and technical writing, and am interested in building microservices for the cloud! I’m still 
 >  learning every day, and am looking forward to taking ahold of every opportunity handed to me.
 
-----
 
 Education and Certifications
 ---------
@@ -29,7 +27,7 @@ Jan - June 2022
      Studied fundamental skills needed for a career in IT support. Topics covered include troubleshooting
      and customer service, operating systems, networking, system administration, and security. Troubleshot 
      common hardware and software issues, how to resolve them, and gained an understanding of the basic principles
-     of computer networks. Curriculum also delved into essential concepts such as virtualization, cloud computing, and data recovery.
+     of computer networks. Researched essential concepts such as virtualization, cloud computing, and data recovery.
 
 Experience
 ----------
@@ -54,9 +52,14 @@ October 2017 - Present
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Industry Partner Capstone Project**
+January - May 2023
+Participated in a unique Capstone Project focused on the development of a
+gamified rewards systems solution for a Fortune 20 company. This project
+involved utilizing source data and building a working prototype application
+that allows the business to incentivize employees to improve customer
+service. Capstone teams met regularly with sponsor stakeholders through
+the entire discovery and build process, following an agile delivery process.
 
     * These items can also contain lists, but you need to mind the
       indentation levels in the markdown source.
