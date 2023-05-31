@@ -86,36 +86,40 @@ Technologies and Skills
 
    **Python:** 
                 
-            Using [Python](https://python.org), developed a number of simple scripts
-            and programs to complete assignments and automate common workflows in everyday tasks. 
-            In order to streamline data entry, developed a script that copies text pulled from a PDF and
-            can be configured to paste and submit it into a browser form.Python is also my language of 
-            choice when solving algorithm problems due to its ease of use and readability.
+    Using Python, developed a number of simple scripts
+    and programs to complete assignments and automate common workflows in everyday tasks. 
+    In order to streamline data entry, developed a script that copies text pulled from a PDF and
+    can be configured to paste and submit it into a browser form.Python is also my language of 
+    choice when solving algorithm problems due to its ease of use and readability.
 
    **Go:** 
            
-            With [Go](https://go.dev), developed a number of single-page applications, HTTP services,
-            and have studied how microservices and cloud services are written using the language. Current development 
-            project is a Go module that will streamline the creation of assertion functions when writing unit tests.
+    With Go, developed a number of single-page applications, HTTP services,
+    and have studied how microservices and cloud services are written using the language. Current development 
+    project is a Go module that will streamline the creation of assertion functions when writing unit tests.
 
    **Javascript:** 
                     
-            Used the React and Vue frameworks in both personal and collegiate projects. The initial
-            version of portfolio site was written in React, and the current version is written in Vue.
-            Comfortable with the Node.js framework when writing backends, having direct
-            experience writing local databases using Node and PostgreSQL.
+    Used the React and Vue frameworks in both personal and collegiate projects. The initial
+    version of portfolio site was written in React, and the current version is written in Vue.
+    Comfortable with the Node.js framework when writing backends, having direct
+    experience writing local databases using Node and PostgreSQL.
 
    Foundational knowledge of  **Java**, **Google Cloud Platform**, **Git**, **PostgreSQL**, **MySQL**
 
 ### Soft Skills
 
-:   **Teamwork & Communication:** Having worked 5+ years in sales and service roles, I understand the value of having a reliable
-                                  team. I'm an effective communicator, and my strongest belief is that a friendly disposition and 
-                                  appropriate sense of humor can bring any group of people together and create a positive work environment.
+   **Teamwork & Communication:**  
+   
+   Having worked 5+ years in sales and service roles, I understand the value of having a reliable
+   team. I'm an effective communicator, and my strongest belief is that a friendly disposition and 
+   appropriate sense of humor can bring any group of people together and create a positive work environment.
 
-:   **Leadership:** My experience running shifts in a service environment and leading an API integration
-                    project in an office environment means I understand how to take charge in a way that feels
-                    inclusive and welcoming, yet serves its purpose in with flying colors.
+   **Leadership:** 
+   
+   My experience running shifts in a service environment and leading an API integration
+   project in an office environment means I understand how to take charge in a way that feels
+   inclusive and welcoming, yet serves its purpose in with flying colors.
 
-> <cdkulat1@gmail.com> • +1 770-825-3732 • 23 years old
+> <cdkulat1@gmail.com> • +1 770-825-3732 • 23 years old • 
 > Atlanta, GA
