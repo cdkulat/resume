@@ -31,7 +31,7 @@ Jan - June 2022
      common hardware and software issues, how to resolve them, and gained an understanding of the basic principles
      of computer networks. Researched essential concepts such as virtualization, cloud computing, and data recovery.
 
-Experience
+Work Experience
 ----------
 
 ### **Sales Support at Backyard Playnation, LLC**
