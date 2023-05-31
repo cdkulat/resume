@@ -67,7 +67,7 @@ January - May 2023
     service. Capstone teams met regularly with sponsor stakeholders through
     the entire discovery and build process, following an agile delivery process.
 
-**Dice Rolling Discord Bot in Go**
+### **Dice Rolling Discord Bot in Go**
 
 January - February 2023
 
