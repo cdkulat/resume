@@ -17,8 +17,9 @@ Education and Certifications
 2018-2023
 :   **Bachelor of Science in Computer Science, Minor in Software Engineering**; Kennesaw State University
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    Completed a full degree track in Computer Science, with an emphasis on user design,
+    algorithm analysis, software testing and quality assurance and other important facets of 
+    software engineering such as API design, microservice architecture and networking.
 
 2007-2010
 :   **BSc, Computer Science and Electrical Engineering**; University of
