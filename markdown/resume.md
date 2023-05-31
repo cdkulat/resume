@@ -85,26 +85,25 @@ Technologies and Skills
 ### Programming Languages & Software Tools
 
    **Python:** 
-                Using [Python](https://python.org), I've developed a number of simple scripts
-                and programs to complete assignments and automate common workflows in my 
-                everyday life. For example, in order to streamline data entry, I developed a script that
-                copies text pulled from a PDF and can be configured to paste it into a browser form, 
-                and then submit that form. I also have experience writing modules, and am currently working
-                on writing a small testing suite. Python is also my language of choice when solving algorithm
-                problems due to its ease of use and readability.
+                
+                Using [Python](https://python.org), developed a number of simple scripts
+                and programs to complete assignments and automate common workflows in everyday tasks. 
+                In order to streamline data entry, developed a script that copies text pulled from a PDF and
+                can be configured to paste and submit it into a browser form.Python is also my language of 
+                choice when solving algorithm problems due to its ease of use and readability.
 
    **Go:** 
-            With [Go](https://go.dev), I've developed a number of single-page applications, HTTP services,
-            and have studied how microservices and cloud services are written using the language. Though Python
-            is more widely used and is often more convenient, I find that Go's modular structure, vast but deep
-            standard library fast runtimes, and memorable syntax is a perfect fit for me. My current development 
+           
+            With [Go](https://go.dev), developed a number of single-page applications, HTTP services,
+            and have studied how microservices and cloud services are written using the language. Current development 
             project is a Go module that will streamline the creation of assertion functions when writing unit tests.
 
    **Javascript:** 
-                    I've used the React and Vue frameworks in both personal and collegiate projects. The initial
-                    version of my portfolio site was written in React, with the current version written in Vue.
-                    I am also comfortable with the Node.js framework when writing backends, having direct
-                    experience writing local databases using Node and PostgreSQL
+                    
+                    Used the React and Vue frameworks in both personal and collegiate projects. The initial
+                    version of portfolio site was written in React, and the current version is written in Vue.
+                    Comfortable with the Node.js framework when writing backends, having direct
+                    experience writing local databases using Node and PostgreSQL.
 
    Foundational knowledge of  **Java**, **Google Cloud Platform**, **Git**, **PostgreSQL**, **MySQL**
 
