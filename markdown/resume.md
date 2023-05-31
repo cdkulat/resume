@@ -12,8 +12,9 @@ Christian Kulat
 Education and Certifications
 ---------
 
+### **Bachelor of Science in Computer Science, Minor in Software Engineering**; Kennesaw State University
+
 2018 - 2023
-:   **Bachelor of Science in Computer Science, Minor in Software Engineering**; Kennesaw State University
 
     Completed a full degree track in Computer Science, with an emphasis on user design, algorithm analysis,
     software testing and quality assurance and other important facets of software engineering such as API design,
@@ -21,8 +22,9 @@ Education and Certifications
     Aritifical Intelligence and Cryptography. Final semester of degree consisted of a unique capstone project
     focused on the development of a gamified rewards solution for a Fortune 20 company.
 
+###   **Google IT Support Specialist**; Google & Coursera
+
 Jan - June 2022
-:   **Google IT Support Specialist**; Google & Coursera
 
      Studied fundamental skills needed for a career in IT support. Topics covered include troubleshooting
      and customer service, operating systems, networking, system administration, and security. Troubleshot 
@@ -32,7 +34,7 @@ Jan - June 2022
 Experience
 ----------
 
-**Sales Support at Backyard Playnation, LLC**
+### **Sales Support at Backyard Playnation, LLC**
 
 February 2022 - Present
 
@@ -42,7 +44,7 @@ February 2022 - Present
 -   Assisted in 3rd-party API integration on company ecommerce website using Javascript and HTML, resulting in 10% uptick in sales in the following 6 months
 
 
-**Team Lead and Certified Trainer at Chick-Fil-A Acworth**
+### **Team Lead and Certified Trainer at Chick-Fil-A Acworth**
 
 October 2017 - Present
 
