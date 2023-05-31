@@ -14,8 +14,8 @@ Christian Kulat
 Education and Certifications
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2018-2023
+:   **Bachelor of Science in Computer Science, Minor in Software Engineering**; Kennesaw State University
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
