@@ -61,8 +61,8 @@ Technical Experience
 January - May 2023
 
     Participated in a unique Capstone Project focused on the development of a gamified rewards systems solution for a Fortune 20
-    company. This project involved utilizing source data and building a working prototype application that allows the 
-    business to incentivize employees to improve customer service. Capstone teams met regularly with sponsor stakeholders 
+    company. This project involved utilizing source data and building a working prototype application that allows the
+    business to incentivize employees to improve customer service. Capstone teams met regularly with sponsor stakeholders
     through the entire discovery and build process, following an agile delivery process.
 
 ### **Dice Rolling Discord Bot in Go**
