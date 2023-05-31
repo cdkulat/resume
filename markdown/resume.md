@@ -53,7 +53,7 @@ Technical Experience
 --------------------
 
 **Industry Partner Capstone Project**
-January - May 2023
+  January - May 2023
 Participated in a unique Capstone Project focused on the development of a
 gamified rewards systems solution for a Fortune 20 company. This project
 involved utilizing source data and building a working prototype application
