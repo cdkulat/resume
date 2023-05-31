@@ -117,20 +117,5 @@ Technologies and Skills
                     project in an office environment means I understand how to take charge in a way that feels
                     inclusive and welcoming, yet serves its purpose in with flying colors.
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Conventional Languages:
-
-     * English (native speaker)
-     * Spanish ()
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <cdkulat1@gmail.com> • +1 770-825-3732 • 23 years old
+> Atlanta, GA
