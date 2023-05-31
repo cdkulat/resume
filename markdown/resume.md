@@ -16,20 +16,20 @@ Education and Certifications
 
 2018 - 2023
 
-    Completed a full degree track in Computer Science, with an emphasis on user design, algorithm analysis,
-    software testing and quality assurance and other important facets of software engineering such as API design,
-    microservice architecture and networking. Classes taken include Software Testing and QA, Algorithm Analysis,
-    Aritifical Intelligence and Cryptography. Final semester of degree consisted of a unique capstone project
-    focused on the development of a gamified rewards solution for a Fortune 20 company.
+                    Completed a full degree track in Computer Science, with an emphasis on user design, algorithm analysis,
+                    software testing and quality assurance and other important facets of software engineering such as API design,
+                    microservice architecture and networking. Classes taken include Software Testing and QA, Algorithm Analysis,
+                    Aritifical Intelligence and Cryptography. Final semester of degree consisted of a unique capstone project
+                    focused on the development of a gamified rewards solution for a Fortune 20 company.
 
 ###   **Google IT Support Specialist**; Google & Coursera
 
 Jan - June 2022
 
-     Studied fundamental skills needed for a career in IT support. Topics covered include troubleshooting
-     and customer service, operating systems, networking, system administration, and security. Troubleshot 
-     common hardware and software issues, how to resolve them, and gained an understanding of the basic principles
-     of computer networks. Researched essential concepts such as virtualization, cloud computing, and data recovery.
+                    Studied fundamental skills needed for a career in IT support. Topics covered include troubleshooting
+                    and customer service, operating systems, networking, system administration, and security. Troubleshot 
+                    common hardware and software issues, how to resolve them, and gained an understanding of the basic principles
+                    of computer networks. Researched essential concepts such as virtualization, cloud computing, and data recovery.
 
 Experience
 ----------
@@ -60,23 +60,23 @@ Technical Experience
 
 January - May 2023
 
-    Participated in a unique Capstone Project focused on the development of a gamified rewards systems solution for a Fortune 20
-    company. This project involved utilizing source data and building a working prototype application that allows the
-    business to incentivize employees to improve customer service. Capstone teams met regularly with sponsor stakeholders
-    through the entire discovery and build process, following an agile delivery process.
+                    Participated in a unique Capstone Project focused on the development of a gamified rewards systems solution for a Fortune 20
+                    company. This project involved utilizing source data and building a working prototype application that allows the
+                    business to incentivize employees to improve customer service. Capstone teams met regularly with sponsor stakeholders
+                    through the entire discovery and build process, following an agile delivery process.
 
 ### **Dice Rolling Discord Bot in Go**
 
 January - February 2023
 
-    Lightweight bot running in a Docker container that parses commands in a Discord guild and returns a brief sentence 
-    detailing the results of a dice roll. Users can specify the number of sides on a die and the number of die to be rolled.
+                    Lightweight bot running in a Docker container that parses commands in a Discord guild and returns a brief sentence 
+                    detailing the results of a dice roll. Users can specify the number of sides on a die and the number of die to be rolled.
 
 ### **Ping-Pong Discord Bot in Go**
 
 January 2023
 
-    Simple discord bot that responds to messages sent to it containing "ping" with the response "pong".
+                    Simple discord bot that responds to messages sent to it containing "ping" with the response "pong".
 
 
 Technologies and Skills
@@ -86,17 +86,17 @@ Technologies and Skills
 
    **Python:** 
                 
-                Using [Python](https://python.org), developed a number of simple scripts
-                and programs to complete assignments and automate common workflows in everyday tasks. 
-                In order to streamline data entry, developed a script that copies text pulled from a PDF and
-                can be configured to paste and submit it into a browser form.Python is also my language of 
-                choice when solving algorithm problems due to its ease of use and readability.
+                    Using [Python](https://python.org), developed a number of simple scripts
+                    and programs to complete assignments and automate common workflows in everyday tasks. 
+                    In order to streamline data entry, developed a script that copies text pulled from a PDF and
+                    can be configured to paste and submit it into a browser form.Python is also my language of 
+                    choice when solving algorithm problems due to its ease of use and readability.
 
    **Go:** 
            
-            With [Go](https://go.dev), developed a number of single-page applications, HTTP services,
-            and have studied how microservices and cloud services are written using the language. Current development 
-            project is a Go module that will streamline the creation of assertion functions when writing unit tests.
+                    With [Go](https://go.dev), developed a number of single-page applications, HTTP services,
+                    and have studied how microservices and cloud services are written using the language. Current development 
+                    project is a Go module that will streamline the creation of assertion functions when writing unit tests.
 
    **Javascript:** 
                     
