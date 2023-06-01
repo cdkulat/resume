@@ -6,7 +6,7 @@ Christian Kulat
 > and Go. Based in Atlanta, I’ve been studying software development since 2017 and am looking 
 > to join a team to help both the company and myself grow. I’m comfortable with version control 
 > and technical writing, and am interested in building microservices for the cloud! I’m still 
->  learning every day, and am looking forward to taking ahold of every opportunity handed to me.
+> learning every day, and am looking forward to taking ahold of every opportunity handed to me.
 
 
 Education and Certifications
@@ -109,17 +109,7 @@ Technologies and Skills
 
 ### Soft Skills
 
-   **Teamwork & Communication:**  
+**Teamwork & Communication, Leadership, Adaptability, Empathy, Self-awareness**
    
-   Having worked 5+ years in sales and service roles, I understand the value of having a reliable
-   team. I'm an effective communicator, and my strongest belief is that a friendly disposition and 
-   appropriate sense of humor can bring any group of people together and create a positive work environment.
-
-   **Leadership:** 
-   
-   My experience running shifts in a service environment and leading an API integration
-   project in an office environment means I understand how to take charge in a way that feels
-   inclusive and welcoming, yet serves its purpose in with flying colors.
-
-> <cdkulat1@gmail.com> • +1 770-825-3732 • 23 years old • 
+> <cdkulat1@gmail.com> • +1 770-825-3732 • 
 > Atlanta, GA
