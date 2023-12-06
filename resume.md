@@ -34,11 +34,19 @@ Jan - June 2022
 Work Experience
 ----------
 
+### **Help Desk Analyst I, Contractor at Chick-Fil-A Support Center**
+
+July 2023 - Present
+    
+    - Utlize KCS methodology to provide Level 1 technical support for both hardware and software to over 3,000 locations in the US
+    - Manage high-volume ticket queue with an average time-to-resolve of less than two days
+    - Communicate with Tier II support, specialized teams across departments and third-party partners to assist in resolving customer issues
+    - Developed rapport with leaders, other analysts, store contacts and higher tiers of support to 
+
 ### **Sales Support at Backyard Playnation, LLC**
 
-February 2022 - Present
+February 2022 - July 2023
 
-    -   Manage inventory and online content for 3 brands across several multi-billion dollar retailers
     -   Wrote marketing copy and other technical documents for over 20 products, including brand new furniture collections.
     -   Developed automated text extraction and online form submission of purchase orders for Amazon’s Vendor Central using Python
     -   Assisted in 3rd-party Javascript API integration on company ecommerce website resulting in 10% uptick in sales in the following 6 months
@@ -48,7 +56,6 @@ February 2022 - Present
 
 October 2017 - Present
 
-    -   Manage teams of 20+ people through rush hours to deliver upwards of $20000 in daily sales
     -   Train, guide, and set an example for multiple new team members
     -   Perform opening and closing procedures as well as keep track of key performance indicators such as labor and food costs
     -   Assist in updating training regimen and operational techniques facilitating a 50% increase in daily sales over 3 years
@@ -72,13 +79,6 @@ January - February 2023
     Lightweight bot running in a Docker container that parses commands in a Discord guild and returns a brief sentence 
     detailing the results of a dice roll. Users can specify the number of sides on a die and the number of die to be rolled.
 
-### **Ping-Pong Discord Bot in Go**
-
-January 2023
-
-    Simple discord bot that responds to messages sent to it containing "ping" with the response "pong".
-
-
 Technologies and Skills
 --------------------
 
@@ -98,18 +98,15 @@ Technologies and Skills
     and have studied how microservices and cloud services are written using the language. Current development 
     project is a Go module that will streamline the creation of assertion functions when writing unit tests.
 
-   **Javascript:** 
-                    
-    Used the React and Vue frameworks in both personal and collegiate projects. The initial
-    version of portfolio site was written in React, and the current version is written in Vue.
-    Comfortable with the Node.js framework when writing backends, having direct
-    experience writing local databases using Node and PostgreSQL.
+   **ServiceNow:** 
+
+
 
    Foundational knowledge of  **Java**, **Google Cloud Platform**, **Git**, **PostgreSQL**, **MySQL**
 
 ### Soft Skills
 
-**Teamwork & Communication, Leadership, Adaptability, Empathy, Self-awareness**
+**Teamwork,  Communication, Leadership, Adaptability, Empathy, Problem Solving**
    
 > <cdkulat1@gmail.com> • +1 770-825-3732 • 
 > Atlanta, GA
